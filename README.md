@@ -1,6 +1,6 @@
-# Restaurant-Website
-A Webpage for online food delivery system using HTML and CSS
-Online Food Delivery System Webpage
+# A Webpage for online food delivery system using HTML and CSS
+
+# Online Food Delivery System Webpage
 This project is a simple Online Food Delivery System webpage designed using HTML and CSS. The webpage provides a user-friendly interface for customers to explore food items, place orders, and experience seamless online food delivery.
 
 Features
